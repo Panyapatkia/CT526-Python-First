@@ -32,10 +32,8 @@ https://github.com/Panyapatkia/CT526-Python-First.git
     How many turns you want to run: 4
 
     ผลลัพธ์ที่ได้:
+
     x
-
     xx
-
     xxx
-    
     xxxx
