@@ -33,6 +33,9 @@ https://github.com/Panyapatkia/CT526-Python-First.git
 
     ผลลัพธ์ที่ได้:
     x
+
     xx
+
     xxx
+    
     xxxx
