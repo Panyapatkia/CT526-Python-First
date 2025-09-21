@@ -27,13 +27,19 @@ https://github.com/Panyapatkia/CT526-Python-First.git
         python main.py # รันโปรแกรม
 
 3. ตัวอย่างการทำงานของโปรแกรม
+
     เมื่อรันคำสั่ง python main.py ระบบจะให้ผู้ใช้กรอกตัวอักษร และจำนวนรอบที่ต้องการรัน เช่น
+    
     please input character: x
+
     How many turns you want to run: 4
 
     ผลลัพธ์ที่ได้:
 
     x
+
     xx
+
     xxx
+
     xxxx
