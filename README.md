@@ -1,45 +1,37 @@
-﻿# CT526-0589  How to Run Code
-1. Clone repository:
-https://github.com/Panyapatkia/CT526-Python-First.git
+﻿# CT526-Python-First
 
-2. การติดตั้งและการรันโปรแกรม
-    - สำหรับ Linux
-        sudo apt install python-is-python3 -y  #ติดตั้ง Python3
+## การติดตั้งและการรันโปรแกรม
 
-        sudo apt install git -y  #ติดตั้ง Git
+### สำหรับ Linux  
+```bash
+# ติดตั้ง Python3
+sudo apt install python-is-python3 -y  
 
-        git clone https://github.com/Panyapatkia/CT526-Python-First.git  #โคลนโปรเจกต์จาก GitHub
+# ติดตั้ง Git
+sudo apt install git -y  
 
+# โคลนโปรเจกต์จาก GitHub
+git clone https://github.com/Panyapatkia/CT526-Python-First.git  
 
-        cd CT526-Python-First  # เข้าโฟลเดอร์
+# เข้าโฟลเดอร์โปรเจกต์
+cd CT526-Python-First  
 
-        python main.py  # Run file
- 
-    - สำหรับ Windows
-        https://www.python.org/downloads/  #ติดตั้ง Python
+# รันโปรแกรม
+python main.py  
 
-        https://git-scm.com/download/win   #ติดตั้ง Git
+### สำหรับ Window
 
-        git clone https://github.com/Panyapatkia/CT526-Python-First.git  #โคลนโปรเจกต์จาก GitHub
+# ติดตั้ง Python
+https://www.python.org/downloads/
 
-        cd CT526-Python-First # เข้าโฟลเดอร์
+# ติดตั้ง Git
+https://git-scm.com/download/win
 
-        python main.py # รันโปรแกรม
+# โคลนโปรเจกต์จาก GitHub
+git clone https://github.com/Panyapatkia/CT526-Python-First.git  
 
-3. ตัวอย่างการทำงานของโปรแกรม
+# เข้าโฟลเดอร์โปรเจกต์
+cd CT526-Python-First  
 
-    เมื่อรันคำสั่ง python main.py ระบบจะให้ผู้ใช้กรอกตัวอักษร และจำนวนรอบที่ต้องการรัน เช่น
-    
-    please input character: x
-
-    How many turns you want to run: 4
-
-    ผลลัพธ์ที่ได้:
-
-    x
-
-    xx
-
-    xxx
-
-    xxxx
+# รันโปรแกรม
+python main.py  
