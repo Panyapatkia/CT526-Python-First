@@ -3,14 +3,14 @@
 ## การติดตั้งและการรันโปรแกรม
 
 ### 📌 สำหรับ Linux 📌
-### ติดตั้ง Python3
+### ติดตั้ง Python บน Linux
 
 ```bash
 sudo apt install python-is-python3 -y
 
 ```
 
-### ติดตั้ง Git
+### ติดตั้ง Git บน Linux
 
 ```bash
 sudo apt install git -y  
@@ -37,12 +37,12 @@ python main.py
 
 ### 📌 สำหรับ Window 📌
 
-# ติดตั้ง Python
+###  ติดตั้ง Python บน Window
 ```bash
 https://www.python.org/downloads/
 ```
 
-### ติดตั้ง Git
+### ติดตั้ง Git บน Window
 ```bash
 https://git-scm.com/download/win
 ```
